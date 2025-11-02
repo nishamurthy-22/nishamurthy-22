@@ -21,7 +21,7 @@ I have previously contributed to research in **medical AI** and **mental health 
 **Languages**  
 Python | Java | C++ | JavaScript | TypeScript | SQL  
 
-**Web Technologies**
+**Web Technologies**  
 React.js | Express.js | Node.js | Next.js | HTML | CSS | Bootstrap
 
 **Databases**  
