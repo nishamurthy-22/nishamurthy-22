@@ -1,4 +1,4 @@
-# Hi there! 👋 I am Nisha Murthy  
+# Hi there! 👋 I am Nisha Murthy Dinesh
 
 🎓 **MSCS @ Northeastern University (Boston, MA)**  
 💻 **Software Engineer | AI & Full Stack Enthusiast**  
@@ -21,8 +21,8 @@ I have previously contributed to research in **medical AI** and **mental health 
 **Languages**  
 Python | Java | C++ | JavaScript | TypeScript | SQL  
 
-**Frameworks & Libraries**  
-React.js | Flask | Node.js | Express.js | Swing | Tailwind CSS  
+**Web Technologies**
+React.js | Express.js | Node.js | Next.js | HTML | CSS | Bootstrap
 
 **Databases**  
 MySQL | PostgreSQL | MongoDB | SQL  
